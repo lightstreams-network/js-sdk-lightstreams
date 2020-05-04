@@ -41,7 +41,7 @@
     "build/contracts"
   ],
   "dependencies": {
-    "@ensdomains/ens": "0.3.11",
+    "@ensdomains/ens": "0.4.0",
     "@ensdomains/resolver": "0.1.9",
     "@openzeppelin/contracts-ethereum-package": "2.2.3",
     "@openzeppelin/gsn-helpers": "0.1.9",
